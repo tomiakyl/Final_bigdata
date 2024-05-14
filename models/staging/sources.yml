@@ -1,0 +1,9 @@
+version: 2
+sources:
+  - name: staging
+    database: project1-415117
+    schema: finalProject
+
+    tables:
+      - name: heigth_weigth
+      - name: smartphone
