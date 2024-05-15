@@ -5,5 +5,5 @@ sources:
     schema: finalProject
 
     tables:
-      - name: heigth_weigth
-      - name: smartphone
+      - name: smart_phone_table
+      - name: global_plastic_prod
